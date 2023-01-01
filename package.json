@@ -34,7 +34,7 @@
         "mocha": "^5.2.0",
         "sinon": "^6.3.4",
         "supertest": "^3.3.0",
-        "tsconfig-paths": "^3.5.0",
+        "tsconfig-paths": "^3.10.1",
         "typescript": "^2.9.2"
     },
     "dependencies": {
